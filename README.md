@@ -21,8 +21,10 @@ This repository contains Python scripts and Jupyter notebooks for analyzing thyr
    git clone https://github.com/saadicorp/Thyroid-Cancer-Data-Analysis.git
    cd Thyroid-Cancer-Data-Analysis
 2. Install dependencies:
+   ```bash
    pip install -r requirements.txt
 3. Run the Jupyter Notebook:
+   ```bash
    jupyter notebook
    
 ### Usage
@@ -30,10 +32,12 @@ This repository contains Python scripts and Jupyter notebooks for analyzing thyr
    Alternatively, open the Jupyter notebook in /notebooks/ to see a step-by-step walkthrough of the data analysis process.
    
 ### Example
-   To clean the data:
+1. To clean the data:
+   ```bash
    python scripts/data_cleaning.py
    
-   To run exploratory data analysis:
+2. To run exploratory data analysis:
+   ```bash
    python scripts/eda.py
    
 ### Contributing
