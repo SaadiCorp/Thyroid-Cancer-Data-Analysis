@@ -1,0 +1,6 @@
+Age,TSH,T3,T4,Diagnosis
+45,2.5,1.2,7.5,Benign
+52,3.0,1.1,7.2,Malignant
+60,4.0,1.4,7.8,Benign
+30,1.8,1.2,7.1,Malignant
+...
